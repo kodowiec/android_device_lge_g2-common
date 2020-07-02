@@ -216,8 +216,6 @@ vendor/lib/libqti-perfd-client.so
 bin/irsc_util
 etc/permissions/qcrilhook.xml
 etc/permissions/qcnvitems.xml
--framework/qcnvitems.jar
--framework/qcrilhook.jar
 lib/libmdmdetect.so
 vendor/lib/libconfigdb.so
 vendor/lib/libdiag.so
@@ -241,7 +239,6 @@ vendor/lib/libsmemlog.so
 vendor/lib/libxml.so
 
 # Radio
--app/qcrilmsgtunnel/qcrilmsgtunnel.apk
 bin/netmgrd
 bin/qmuxd
 bin/radish
@@ -280,7 +277,6 @@ vendor/lib/libthermalclient.so
 vendor/lib/libthermalioctl.so
 
 # Time
--app/TimeService/TimeService.apk
 bin/time_daemon
 vendor/lib/libalarmservice_jni.so
 -vendor/lib/libtime_genoff.so
